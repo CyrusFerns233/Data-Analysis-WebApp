@@ -12,7 +12,7 @@
  Link: (https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles)
 
 ## 4. Usage Instructions: 
-After Clone the Project you can run the app.py file using the command 
+After Cloning the Project you can run the app.py file using the command 
 ```python
 streamlit run app.py
 ```
